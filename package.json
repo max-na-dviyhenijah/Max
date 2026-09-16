@@ -1,0 +1,8 @@
+{
+  "name": "pork-garlic-winter-decision-static",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('Static site is ready')\""
+  }
+}
